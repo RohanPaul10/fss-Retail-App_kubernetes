@@ -41,7 +41,7 @@ services:
       - GF_SMTP_USER=rohanpaul2026@gmail.com
       - GF_SMTP_PASSWORD=vzvr sqwh rerc kqjc
       - GF_SMTP_SKIP_VERIFY=true
-        - GF_SMTP_FROM_ADDRESS=rohanpaul2012@gmail.com
+        - GF_SMTP_FROM_ADDRESS=rohanpaul2026@gmail.com
         - GF_SMTP_FROM_NAME=Grafana Alerts
     networks:
       - monitoring-net
